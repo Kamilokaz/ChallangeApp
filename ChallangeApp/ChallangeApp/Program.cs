@@ -10,7 +10,7 @@ if (age < 30 && male == true)
 {
     Console.WriteLine( result1 );
 }
-if (age == 30 && male == true && name == "Kamil" )
+if (age == 30 && male == true && name == "Kamil")
 {
     Console.WriteLine( result2 );
 }
